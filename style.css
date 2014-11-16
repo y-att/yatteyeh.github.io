@@ -1,0 +1,42 @@
+#header {
+	border: 5px solid black;
+	margin-bottom: 40px;
+}
+
+#h2 {
+   margin-bottom: 40px;
+}
+
+#image1 {
+	border: 1px solid black;
+	margin-bottom: 40px;
+}
+
+#image2 {
+	border: 1px solid black;
+	margin-bottom: 40px;
+}
+
+#image3 {
+	border: 1px solid black;
+	margin-bottom: 40px;
+}
+
+#Googlelink {
+	border: 1px solid black;
+	
+}
+
+
+body {
+	background-color: rgb(100,100,224);
+}
+
+div#heading_box {
+	 border-width: 2px 
+	 border-style: solid;
+	 margin: 18px;
+	 padding:10px;
+}
+
+
